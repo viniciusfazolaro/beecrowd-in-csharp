@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\bin\Debug\net7.0\1018 - Cédulas.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\bin\Debug\net7.0\1018 - Cédulas.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\bin\Debug\net7.0\1018 - Cédulas.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\bin\Debug\net7.0\1018 - Cédulas.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\bin\Debug\net7.0\1018 - Cédulas.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\refint\1018 - Cédulas.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\1018 - Cédulas.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1018 - Cédulas\obj\Debug\net7.0\ref\1018 - Cédulas.dll

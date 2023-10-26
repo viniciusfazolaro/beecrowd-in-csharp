@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\bin\Debug\net7.0\1020 - Idade em Dias.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\bin\Debug\net7.0\1020 - Idade em Dias.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\bin\Debug\net7.0\1020 - Idade em Dias.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\bin\Debug\net7.0\1020 - Idade em Dias.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\bin\Debug\net7.0\1020 - Idade em Dias.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\refint\1020 - Idade em Dias.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\1020 - Idade em Dias.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1020 - Idade em Dias\obj\Debug\net7.0\ref\1020 - Idade em Dias.dll
