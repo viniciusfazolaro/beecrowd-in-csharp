@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\bin\Debug\net7.0\1001 - Extremamente Básico.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\bin\Debug\net7.0\1001 - Extremamente Básico.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\bin\Debug\net7.0\1001 - Extremamente Básico.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\bin\Debug\net7.0\1001 - Extremamente Básico.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\bin\Debug\net7.0\1001 - Extremamente Básico.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\refint\1001 - Extremamente Básico.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\1001 - Extremamente Básico.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1001 - Extremamente Básico\obj\Debug\net7.0\ref\1001 - Extremamente Básico.dll

@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\bin\Debug\net7.0\1002 - Área do Círculo.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\bin\Debug\net7.0\1002 - Área do Círculo.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\bin\Debug\net7.0\1002 - Área do Círculo.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\bin\Debug\net7.0\1002 - Área do Círculo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\bin\Debug\net7.0\1002 - Área do Círculo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\refint\1002 - Área do Círculo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\1002 - Área do Círculo.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Área do Círculo\obj\Debug\net7.0\ref\1002 - Área do Círculo.dll

@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\bin\Debug\net7.0\1004 - Produto Simples.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\bin\Debug\net7.0\1004 - Produto Simples.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\bin\Debug\net7.0\1004 - Produto Simples.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\bin\Debug\net7.0\1004 - Produto Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\bin\Debug\net7.0\1004 - Produto Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\refint\1004 - Produto Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\1004 - Produto Simples.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1004 - Produto Simples\obj\Debug\net7.0\ref\1004 - Produto Simples.dll

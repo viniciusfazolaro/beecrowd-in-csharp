@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\bin\Debug\net7.0\1002 - Soma Simples.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\bin\Debug\net7.0\1002 - Soma Simples.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\bin\Debug\net7.0\1002 - Soma Simples.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\bin\Debug\net7.0\1002 - Soma Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\bin\Debug\net7.0\1002 - Soma Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\refint\1002 - Soma Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\1002 - Soma Simples.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1002 - Soma Simples\obj\Debug\net7.0\ref\1002 - Soma Simples.dll

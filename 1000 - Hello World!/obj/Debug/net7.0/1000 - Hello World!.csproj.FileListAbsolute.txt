@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\bin\Debug\net7.0\1000 - Hello World!.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\bin\Debug\net7.0\1000 - Hello World!.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\bin\Debug\net7.0\1000 - Hello World!.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\bin\Debug\net7.0\1000 - Hello World!.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\bin\Debug\net7.0\1000 - Hello World!.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\refint\1000 - Hello World!.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\1000 - Hello World!.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1000 - Hello World!\obj\Debug\net7.0\ref\1000 - Hello World!.dll
