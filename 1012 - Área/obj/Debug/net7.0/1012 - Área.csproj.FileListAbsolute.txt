@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\bin\Debug\net7.0\1012 - Área.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\bin\Debug\net7.0\1012 - Área.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\bin\Debug\net7.0\1012 - Área.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\bin\Debug\net7.0\1012 - Área.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\bin\Debug\net7.0\1012 - Área.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\refint\1012 - Área.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\1012 - Área.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1012 - Área\obj\Debug\net7.0\ref\1012 - Área.dll

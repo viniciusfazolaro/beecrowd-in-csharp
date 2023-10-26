@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\bin\Debug\net7.0\1013 - O Maior.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\bin\Debug\net7.0\1013 - O Maior.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\bin\Debug\net7.0\1013 - O Maior.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\bin\Debug\net7.0\1013 - O Maior.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\bin\Debug\net7.0\1013 - O Maior.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\refint\1013 - O Maior.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\1013 - O Maior.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1013 - O Maior\obj\Debug\net7.0\ref\1013 - O Maior.dll

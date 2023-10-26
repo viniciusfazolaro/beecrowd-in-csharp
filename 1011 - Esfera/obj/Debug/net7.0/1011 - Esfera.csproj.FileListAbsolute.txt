@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\bin\Debug\net7.0\1011 - Esfera.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\bin\Debug\net7.0\1011 - Esfera.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\bin\Debug\net7.0\1011 - Esfera.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\bin\Debug\net7.0\1011 - Esfera.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\bin\Debug\net7.0\1011 - Esfera.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\refint\1011 - Esfera.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\1011 - Esfera.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1011 - Esfera\obj\Debug\net7.0\ref\1011 - Esfera.dll
