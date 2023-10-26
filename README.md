@@ -1,2 +1,8 @@
 # beecrowd-in-csharp
-Solução de exercícios realizados na plataforma Beecrowd na linguagem C#.
+< PT-BR >
+
+Solução de exercícios da plataforma Beecrowd na linguagem C#. :)
+
+< EN >
+
+Solved exercises of the Beecrowd site in C# programming language. :)
