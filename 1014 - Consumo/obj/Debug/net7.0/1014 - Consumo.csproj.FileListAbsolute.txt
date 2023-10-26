@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\bin\Debug\net7.0\1014 - Consumo.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\bin\Debug\net7.0\1014 - Consumo.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\bin\Debug\net7.0\1014 - Consumo.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\bin\Debug\net7.0\1014 - Consumo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\bin\Debug\net7.0\1014 - Consumo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\refint\1014 - Consumo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\1014 - Consumo.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1014 - Consumo\obj\Debug\net7.0\ref\1014 - Consumo.dll

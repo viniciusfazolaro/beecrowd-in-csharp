@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\bin\Debug\net7.0\1017 - Gasto de Combustível.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\bin\Debug\net7.0\1017 - Gasto de Combustível.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\bin\Debug\net7.0\1017 - Gasto de Combustível.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\bin\Debug\net7.0\1017 - Gasto de Combustível.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\bin\Debug\net7.0\1017 - Gasto de Combustível.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\refint\1017 - Gasto de Combustível.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\1017 - Gasto de Combustível.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1017 - Gasto de Combustível\obj\Debug\net7.0\ref\1017 - Gasto de Combustível.dll
