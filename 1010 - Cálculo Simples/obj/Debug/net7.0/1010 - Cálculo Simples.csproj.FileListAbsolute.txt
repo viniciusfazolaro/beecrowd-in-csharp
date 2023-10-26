@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\bin\Debug\net7.0\1010 - Cálculo Simples.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\bin\Debug\net7.0\1010 - Cálculo Simples.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\bin\Debug\net7.0\1010 - Cálculo Simples.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\bin\Debug\net7.0\1010 - Cálculo Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\bin\Debug\net7.0\1010 - Cálculo Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\refint\1010 - Cálculo Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\1010 - Cálculo Simples.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1010 - Cálculo Simples\obj\Debug\net7.0\ref\1010 - Cálculo Simples.dll
