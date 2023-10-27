@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\bin\Debug\net7.0\1035 - Teste de Seleção 1.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\bin\Debug\net7.0\1035 - Teste de Seleção 1.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\bin\Debug\net7.0\1035 - Teste de Seleção 1.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\bin\Debug\net7.0\1035 - Teste de Seleção 1.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\bin\Debug\net7.0\1035 - Teste de Seleção 1.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\refint\1035 - Teste de Seleção 1.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\1035 - Teste de Seleção 1.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1035 - Teste de Seleção 1\obj\Debug\net7.0\ref\1035 - Teste de Seleção 1.dll
