@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\bin\Debug\net7.0\1038 - Lanche.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\bin\Debug\net7.0\1038 - Lanche.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\bin\Debug\net7.0\1038 - Lanche.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\bin\Debug\net7.0\1038 - Lanche.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\bin\Debug\net7.0\1038 - Lanche.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\refint\1038 - Lanche.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\1038 - Lanche.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1038 - Lanche\obj\Debug\net7.0\ref\1038 - Lanche.dll

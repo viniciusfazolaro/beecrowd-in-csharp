@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\bin\Debug\net7.0\1037 - Intervalo.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\bin\Debug\net7.0\1037 - Intervalo.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\bin\Debug\net7.0\1037 - Intervalo.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\bin\Debug\net7.0\1037 - Intervalo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\bin\Debug\net7.0\1037 - Intervalo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\refint\1037 - Intervalo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\1037 - Intervalo.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1037 - Intervalo\obj\Debug\net7.0\ref\1037 - Intervalo.dll

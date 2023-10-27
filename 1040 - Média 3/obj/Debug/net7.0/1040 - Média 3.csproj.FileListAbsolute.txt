@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\bin\Debug\net7.0\1040 - Média 3.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\bin\Debug\net7.0\1040 - Média 3.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\bin\Debug\net7.0\1040 - Média 3.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\bin\Debug\net7.0\1040 - Média 3.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\bin\Debug\net7.0\1040 - Média 3.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\refint\1040 - Média 3.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\1040 - Média 3.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1040 - Média 3\obj\Debug\net7.0\ref\1040 - Média 3.dll

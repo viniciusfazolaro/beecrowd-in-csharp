@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\bin\Debug\net7.0\1041 - Coordenadas de um Ponto.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\bin\Debug\net7.0\1041 - Coordenadas de um Ponto.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\bin\Debug\net7.0\1041 - Coordenadas de um Ponto.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\bin\Debug\net7.0\1041 - Coordenadas de um Ponto.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\bin\Debug\net7.0\1041 - Coordenadas de um Ponto.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\refint\1041 - Coordenadas de um Ponto.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\1041 - Coordenadas de um Ponto.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1041 - Coordenadas de um Ponto\obj\Debug\net7.0\ref\1041 - Coordenadas de um Ponto.dll
