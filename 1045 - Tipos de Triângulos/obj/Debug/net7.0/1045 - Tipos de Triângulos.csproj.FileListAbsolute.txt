@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\bin\Debug\net7.0\1045 - Tipos de Triângulos.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\bin\Debug\net7.0\1045 - Tipos de Triângulos.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\bin\Debug\net7.0\1045 - Tipos de Triângulos.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\bin\Debug\net7.0\1045 - Tipos de Triângulos.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\bin\Debug\net7.0\1045 - Tipos de Triângulos.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\refint\1045 - Tipos de Triângulos.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\1045 - Tipos de Triângulos.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1045 - Tipos de Triângulos\obj\Debug\net7.0\ref\1045 - Tipos de Triângulos.dll

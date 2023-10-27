@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\bin\Debug\net7.0\1042 - Sort Simples.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\bin\Debug\net7.0\1042 - Sort Simples.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\bin\Debug\net7.0\1042 - Sort Simples.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\bin\Debug\net7.0\1042 - Sort Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\bin\Debug\net7.0\1042 - Sort Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\refint\1042 - Sort Simples.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\1042 - Sort Simples.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1042 - Sort Simples\obj\Debug\net7.0\ref\1042 - Sort Simples.dll

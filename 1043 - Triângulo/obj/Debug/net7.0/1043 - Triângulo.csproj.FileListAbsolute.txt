@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\bin\Debug\net7.0\1043 - Triângulo.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\bin\Debug\net7.0\1043 - Triângulo.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\bin\Debug\net7.0\1043 - Triângulo.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\bin\Debug\net7.0\1043 - Triângulo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\bin\Debug\net7.0\1043 - Triângulo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\refint\1043 - Triângulo.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\1043 - Triângulo.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1043 - Triângulo\obj\Debug\net7.0\ref\1043 - Triângulo.dll
