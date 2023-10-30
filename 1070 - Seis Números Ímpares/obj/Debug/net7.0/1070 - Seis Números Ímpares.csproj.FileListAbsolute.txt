@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\bin\Debug\net7.0\1070 - Seis Números Ímpares.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\bin\Debug\net7.0\1070 - Seis Números Ímpares.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\bin\Debug\net7.0\1070 - Seis Números Ímpares.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\bin\Debug\net7.0\1070 - Seis Números Ímpares.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\bin\Debug\net7.0\1070 - Seis Números Ímpares.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\refint\1070 - Seis Números Ímpares.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\1070 - Seis Números Ímpares.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1070 - Seis Números Ímpares\obj\Debug\net7.0\ref\1070 - Seis Números Ímpares.dll
