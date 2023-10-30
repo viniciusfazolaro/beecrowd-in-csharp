@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\bin\Debug\net7.0\1051 - Imposto de Renda.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\bin\Debug\net7.0\1051 - Imposto de Renda.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\bin\Debug\net7.0\1051 - Imposto de Renda.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\bin\Debug\net7.0\1051 - Imposto de Renda.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\bin\Debug\net7.0\1051 - Imposto de Renda.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\refint\1051 - Imposto de Renda.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\1051 - Imposto de Renda.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1051 - Imposto de Renda\obj\Debug\net7.0\ref\1051 - Imposto de Renda.dll

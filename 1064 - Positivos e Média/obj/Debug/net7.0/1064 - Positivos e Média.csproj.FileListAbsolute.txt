@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\bin\Debug\net7.0\1064 - Positivos e Média.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\bin\Debug\net7.0\1064 - Positivos e Média.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\bin\Debug\net7.0\1064 - Positivos e Média.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\bin\Debug\net7.0\1064 - Positivos e Média.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\bin\Debug\net7.0\1064 - Positivos e Média.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\refint\1064 - Positivos e Média.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\1064 - Positivos e Média.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1064 - Positivos e Média\obj\Debug\net7.0\ref\1064 - Positivos e Média.dll

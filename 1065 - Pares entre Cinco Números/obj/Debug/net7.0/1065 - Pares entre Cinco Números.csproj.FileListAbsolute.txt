@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\bin\Debug\net7.0\1065 - Pares entre Cinco Números.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\bin\Debug\net7.0\1065 - Pares entre Cinco Números.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\bin\Debug\net7.0\1065 - Pares entre Cinco Números.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\bin\Debug\net7.0\1065 - Pares entre Cinco Números.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\bin\Debug\net7.0\1065 - Pares entre Cinco Números.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\refint\1065 - Pares entre Cinco Números.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\1065 - Pares entre Cinco Números.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1065 - Pares entre Cinco Números\obj\Debug\net7.0\ref\1065 - Pares entre Cinco Números.dll

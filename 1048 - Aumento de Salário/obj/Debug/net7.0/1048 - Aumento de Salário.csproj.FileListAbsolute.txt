@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\bin\Debug\net7.0\1048 - Aumento de Salário.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\bin\Debug\net7.0\1048 - Aumento de Salário.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\bin\Debug\net7.0\1048 - Aumento de Salário.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\bin\Debug\net7.0\1048 - Aumento de Salário.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\bin\Debug\net7.0\1048 - Aumento de Salário.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\refint\1048 - Aumento de Salário.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\1048 - Aumento de Salário.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1048 - Aumento de Salário\obj\Debug\net7.0\ref\1048 - Aumento de Salário.dll

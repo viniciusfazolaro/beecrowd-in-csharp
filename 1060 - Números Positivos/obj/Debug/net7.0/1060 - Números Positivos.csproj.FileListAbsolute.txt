@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\bin\Debug\net7.0\1060 - Números Positivos.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\bin\Debug\net7.0\1060 - Números Positivos.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\bin\Debug\net7.0\1060 - Números Positivos.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\bin\Debug\net7.0\1060 - Números Positivos.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\bin\Debug\net7.0\1060 - Números Positivos.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\refint\1060 - Números Positivos.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\1060 - Números Positivos.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1060 - Números Positivos\obj\Debug\net7.0\ref\1060 - Números Positivos.dll

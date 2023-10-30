@@ -1,0 +1,14 @@
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\bin\Debug\net7.0\1049 - Animal.exe
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\bin\Debug\net7.0\1049 - Animal.deps.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\bin\Debug\net7.0\1049 - Animal.runtimeconfig.json
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\bin\Debug\net7.0\1049 - Animal.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\bin\Debug\net7.0\1049 - Animal.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.AssemblyInfoInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.AssemblyInfo.cs
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.csproj.CoreCompileInputs.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\refint\1049 - Animal.dll
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.pdb
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\1049 - Animal.genruntimeconfig.cache
+C:\Users\Rafaela\Documents\Vinícius\C#\beecrowd-in-csharp\1049 - Animal\obj\Debug\net7.0\ref\1049 - Animal.dll
